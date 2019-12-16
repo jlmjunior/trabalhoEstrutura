@@ -1,3 +1,3 @@
 # trabalhoEstrutura
 
-Jogo da velha que nunca perde
+Jogo da velha, "computer" que nunca perde
